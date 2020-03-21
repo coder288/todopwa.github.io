@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/todopwa.github.io/static/css/main.f4cabfc1.chunk.css",
+    "main.js": "/todopwa.github.io/static/js/main.d772aa7d.chunk.js",
+    "main.js.map": "/todopwa.github.io/static/js/main.d772aa7d.chunk.js.map",
+    "runtime-main.js": "/todopwa.github.io/static/js/runtime-main.dbdb4e56.js",
+    "runtime-main.js.map": "/todopwa.github.io/static/js/runtime-main.dbdb4e56.js.map",
+    "static/js/2.6cdf745f.chunk.js": "/todopwa.github.io/static/js/2.6cdf745f.chunk.js",
+    "static/js/2.6cdf745f.chunk.js.map": "/todopwa.github.io/static/js/2.6cdf745f.chunk.js.map",
+    "index.html": "/todopwa.github.io/index.html",
+    "precache-manifest.e96f888e94794ab20b0d0edda970f16b.js": "/todopwa.github.io/precache-manifest.e96f888e94794ab20b0d0edda970f16b.js",
+    "service-worker.js": "/todopwa.github.io/service-worker.js",
+    "static/css/main.f4cabfc1.chunk.css.map": "/todopwa.github.io/static/css/main.f4cabfc1.chunk.css.map",
+    "static/js/2.6cdf745f.chunk.js.LICENSE.txt": "/todopwa.github.io/static/js/2.6cdf745f.chunk.js.LICENSE.txt",
+    "static/media/todoList.css": "/todopwa.github.io/static/media/trash.f71ec72e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbdb4e56.js",
+    "static/js/2.6cdf745f.chunk.js",
+    "static/css/main.f4cabfc1.chunk.css",
+    "static/js/main.d772aa7d.chunk.js"
+  ]
+}
